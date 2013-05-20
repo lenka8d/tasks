@@ -1,0 +1,13 @@
+<body>
+<h1>GPS Location</h1>
+This service task returns latitude and logitude of device. It can be only use on devices with GPS locator or network service.
+
+If you are using this service task in your app, you have to declare permission for accessing location-based service to your manifest.
+
+According to calling method getSystemService that can be called only from Main Activity, there had to be added constructor with parameter "context". When you register this handler in Main Activity (in method onCreate), you only need to put "this" as parameter. For example:
+
+ksession.getWorkItemManager().registerWorkItemHandler("GpsLocation", new GpsHandler(this));
+
+Note: Not every Android device has defaultly allowed GPS satelites, so you have to turn it on manualy.
+
+</body>

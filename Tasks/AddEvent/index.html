@@ -1,0 +1,13 @@
+<body>
+<h1>GPS Location</h1>
+This service task adds new event to your calendar. It takes parameters event, description, date, time and place.Date have to be in format YYYY/MM/DD and time HH:MM.
+
+If you are using this service task in your app, you have to declare permission for accessing writing to calendar to your manifest.
+
+According to calling method startActivity that can be called only from Main Activity, there had to be added constructor with parameter "context". When you register this handler in Main Activity (in method onCreate), you only need to put "this" as parameter. For example:
+
+ksession.getWorkItemManager().registerWorkItemHandler("AddEvent", new AddEventHandler(this));
+
+Note: Make sure you have calendar account added on your device.
+
+</body>
