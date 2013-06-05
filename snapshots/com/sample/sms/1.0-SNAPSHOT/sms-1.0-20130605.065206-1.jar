@@ -1,4 +1,4 @@
-package com.example.iamhere;
+package com.sample;
 
 import org.drools.runtime.process.WorkItem;
 import org.drools.runtime.process.WorkItemHandler;
