@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.sample</groupId>
-  <artifactId>gps</artifactId>
+  <artifactId>addevent</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130605150855</lastUpdated>
+    <lastUpdated>20130605191832</lastUpdated>
   </versioning>
 </metadata>
