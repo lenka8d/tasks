@@ -126,7 +126,7 @@
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
-                <checksumPolicy>ignore</checksumPolicy>
+                <checksumPolicy>fail</checksumPolicy>
             </snapshots>
         </repository>
         <repository>
