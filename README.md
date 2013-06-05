@@ -7,7 +7,7 @@ Process I am here
   This process tests tasks GPS location a SMS location. 
   
   1. To run this test, you need to install Android SDK from http://developer.android.com/sdk/index.html. 
-  Download this repository extract it, open Eclipse, which has been installed with android SDK and import project Iamhere from directory "tests".
+  Download this repository extract it, open Eclipse, which has been installed with android SDK and import project Iamhere from directory "test".
   
   2. If you want to try them on emulator, you need to run two emulator devices. In this process, the nubmer where SMS is sent is 5556, so if none of your devices has this nuber you may need to change it to number of your actual device.
   Make sure you have device with GPS and don´t forget to push it GPS coordination via DDMS view (Emulator Control) after device initialization.
