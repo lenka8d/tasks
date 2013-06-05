@@ -21,7 +21,7 @@ Process Add event
 
   1. This process tests task Add Event. Assumig you alredy have Android SDK installed and downloaded and exctracted you open Eclipse and import project AddEvent from directory "test".
   
-  2. To add new event to your callendar you must have at least one account added. If you can´t add it on emulator, you need to test this process on real device.
+  2. To add new event to your callendar you must have at least one account added. If you can´t add it on emulator, you need to test this process on real devices with platform Android 4.0 or newer.
   
   3. When you have at least one account added to your callendar, you can run this process as it is writen in process before. 
   At first you can see the screen where you must write some basic info about the event. Date must be in format yyyy/mm/dd. This screen is made only for testing.
