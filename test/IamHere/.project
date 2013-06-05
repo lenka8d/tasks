@@ -30,26 +30,4 @@
 		<nature>com.android.ide.eclipse.adt.AndroidNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>libs/drools-api-5.2.0.M1.jar</name>
-			<type>1</type>
-			<location>C:/Users/Lenka/Desktop/Nový priečinok/AndroidProcessJbpm/libs/drools-api-5.2.0.M1.jar</location>
-		</link>
-		<link>
-			<name>libs/drools-core-5.2.0.M1.jar</name>
-			<type>1</type>
-			<location>C:/Users/Lenka/Desktop/Nový priečinok/AndroidProcessJbpm/libs/drools-core-5.2.0.M1.jar</location>
-		</link>
-		<link>
-			<name>libs/jbpm-flow-5.1-SNAPSHOT.jar</name>
-			<type>1</type>
-			<location>C:/Users/Lenka/Desktop/Nový priečinok/AndroidProcessJbpm/libs/jbpm-flow-5.1-SNAPSHOT.jar</location>
-		</link>
-		<link>
-			<name>libs/mvel2-2.1.RC1.jar</name>
-			<type>1</type>
-			<location>C:/Users/Lenka/Desktop/Nový priečinok/AndroidProcessJbpm/libs/mvel2-2.1.RC1.jar</location>
-		</link>
-	</linkedResources>
 </projectDescription>

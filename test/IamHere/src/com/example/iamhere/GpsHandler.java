@@ -74,18 +74,9 @@ private Context context;
 			
 			
 		Map<String, Object> results = new HashMap<String, Object>();
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 		results.put("latitude", latitude);
 		results.put("longitude", longitude);
-=======
-		results.put("lat", latitude);
-		results.put("longt", longitude);
->>>>>>> 2abc9699cdb60095169b43454cb737558f699878
-=======
-		results.put("lat", latitude);
-		results.put("longt", longitude);
->>>>>>> 2abc9699cdb60095169b43454cb737558f699878
 		
 		m.completeWorkItem(i.getId(), results);
 			
